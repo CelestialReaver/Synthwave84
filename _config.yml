@@ -55,7 +55,7 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
+  twitch: CelestialReaver
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
@@ -65,7 +65,7 @@ social-network-links:
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
-   kofi: CelestialReaver
+  kofi: CelestialReaver
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -254,11 +254,19 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
+  
+relative_links:
+  enabled: true
+  collections: true
+  
+include:
+- /docs
+- index.md
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-relative-links
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
