@@ -260,7 +260,7 @@ relative_links:
   collections: true
   
 include:
-- /docs
+- docs/
 - index.md
 
 plugins:
