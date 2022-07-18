@@ -1,8 +1,6 @@
 <h1 align="center"><a href="https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-BetterDiscord.gif"><img src="https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-BetterDiscord.gif" title="source: github.com" /></a></h1>
 <p align="center">A unique retro theme that provides the perfect glow and vibe to your Discord.</p>
 
-</br>
-
 ## Features
 * _**Sleek, clean, retro, and unique**_ - carefully crafted theme that gives you a clean and unique retro experience. 
 * _**Soft neon glow**_ - soothing not distracting, the neon glow adds to your experience and does not disctract.
