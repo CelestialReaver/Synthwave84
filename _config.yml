@@ -1,19 +1,8 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
-
-# --- Required options --- #
-
 # Name of website
 title: "Synthwave '84"
 
-# Your name to show in the footer
-author: CelestialReaver
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "Synthwave '84 is a collection of themes created by CelestialReaver."
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CelestialReaver
@@ -23,6 +12,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Your name to show in the footer
+author: CelestialReaver
 
 # --- List of links in the navigation bar --- #
 
